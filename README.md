@@ -15,10 +15,10 @@ This project is a Streamlit web application that predicts a student's **exam per
 
 ---
 
-## 🗂️ Project Structure
-├── rf_model.pkl # Trained Random Forest model
-├── scaler.pkl # StandardScaler object
-├── student_habits_performance.csv # Raw dataset from Kaggle
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies
-└── README.md # This file
+student-performance-predictor/
+├── app.py                         
+├── rf_model.pkl                   
+├── scaler.pkl                     
+├── student_habits_performance.csv 
+├── requirements.txt               
+└── README.md                      
