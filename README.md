@@ -15,10 +15,4 @@ This project is a Streamlit web application that predicts a student's **exam per
 
 ---
 
-student-performance-predictor/
-├── app.py                         
-├── rf_model.pkl                   
-├── scaler.pkl                     
-├── student_habits_performance.csv 
-├── requirements.txt               
-└── README.md                      
+
